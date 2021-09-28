@@ -1,0 +1,3 @@
+2021-09-28 21:08:23,970 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplicationTests using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 2821 (started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 21:08:23,974 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 21:08:26,466 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplicationTests in 2.951 seconds (JVM running for 4.306)
